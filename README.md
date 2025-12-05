@@ -1,6 +1,20 @@
+# Titre 1
+## Titre 2
+
 ## Hi there 👋
 
-<!--
+-item 1
+ - item1.1
+ -item 2
+1. item 1
+1. item 2
+
+```c
+int main (){
+}
+```
+
+
 **EthanAugier/EthanAugier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
